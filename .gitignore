@@ -12,3 +12,7 @@ __pycache__/
 
 # Editor-specific temporary/backup files
 *~
+
+people.db
+*.bak
+*.bak.*
