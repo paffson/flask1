@@ -1,1 +1,14 @@
+# Python virtual environment
 venv/
+
+# Compiled Python files
+*.pyc
+
+# Python cache
+__pycache__/
+
+# IDE-specific files (e.g., for Visual Studio Code)
+.vscode/
+
+# Editor-specific temporary/backup files
+*~
